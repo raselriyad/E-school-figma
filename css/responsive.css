@@ -1,0 +1,114 @@
+/* Extra Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+
+    /* banner start  */
+    .banner {
+        padding: 10px 0 60px;
+    }
+    .b_text {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .b_h1 {
+        margin: 10px 0 10px;
+        font-size: 25px;
+        line-height: 35px;
+        padding-right: 0px;
+    }
+    .b_black {
+        line-height: 24px;
+        padding: 0px px;
+    }
+    .b_img {
+        padding: 0 0px;
+    }
+    /* banner End  */  
+    /* feature start  */
+    .feature {
+        padding-bottom: 60px;
+    }    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px){ 
+
+    /* banner start  */
+    .banner {
+        padding: 10px 0 60px;
+    }
+    .b_text {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .b_h1 {
+        margin: 10px 0 10px;
+        font-size: 25px;
+        line-height: 35px;
+        padding-right: 0px;
+    }
+    .b_black {
+        line-height: 24px;
+        padding: 0px 50px;
+    }
+    .b_img {
+        padding: 0 100px;
+    }
+    /* banner End  */  
+        /* feature start  */
+        .feature {
+            padding-bottom: 60px;
+        }  
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){ 
+
+    /* banner start  */
+    .banner {
+        padding: 10px 0 60px;
+    }
+    .b_text {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .b_h1 {
+        margin: 10px 0 10px;
+        font-size: 35px;
+        line-height: 35px;
+        padding-right: 0px;
+    }
+    .b_black {
+        line-height: 24px;
+        padding: 0px 50px;
+    }
+    .b_img {
+        padding: 0 100px;
+    }
+    /* banner End  */
+    /* feature start  */
+    .feature {
+        padding-bottom: 80px;
+    }
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px){ 
+    /* banner start  */
+    .b_h1{
+        font-size: 40px;
+        padding-right: 30px;
+    }
+    /* banner end  */
+ }
+
+/* Extra Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+    /* banner start  */
+    .b_h1 {
+        padding-right: 40px;
+    }
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+/* @media (min-width: 1400px) { ... } */

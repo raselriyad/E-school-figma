@@ -1,0 +1,30 @@
+Notes----------------
+
+E - School 
+
+font-family
+font-family: 'Poppins', sans-serif;
+    400
+    500
+    700
+font-family: 'Roboto', sans-serif;
+    400
+
+colors----------
+
+bg #F0FFF0;
+Green #21B573;
+white #fff;
+black #000
+
+Header----------
+
+Layout Section ------------
+
+Semantic
+
+Code commenting----
+
+Reuse------
+
+Code Repeatation Avoid
